@@ -1,1 +1,1 @@
-# O006.LeetCode_Exercise
+# LeetCode_Exercise
